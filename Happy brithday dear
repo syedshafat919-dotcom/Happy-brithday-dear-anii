@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>For Anisha 💙</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <div class="background">
+    <div class="orb orb1"></div>
+    <div class="orb orb2"></div>
+    <div class="stars"></div>
+  </div>
+
+  <main>
+
+    <!-- OPENING -->
+    <section class="screen active" id="s0">
+      <div class="glass intro-card">
+        <span class="small">A LITTLE SURPRISE FOR YOU</span>
+
+        <h1>For Anisha</h1>
+
+        <p>
+          Something small,<br>
+          made with a little extra care. 💙
+        </p>
+
+        <button data-next>
+          TAP TO BEGIN ✦
+        </button>
+      </div>
+    </section>
+
+
+    <!-- INTRO -->
+    <section class="screen" id="s1">
+      <div class="glass">
+        <span class="small">A SPECIAL DAY</span>
+
+        <h2>Hey, Anisha…</h2>
+
+        <p class="soft">
+          Today is all about you.<br>
+          Some people make ordinary moments<br>
+          feel a little more beautiful. 💙
+        </p>
+
+        <button data-next>
+          CONTINUE
+        </button>
+      </div>
+    </section>
+
+
+    <!-- BIRTHDAY MESSAGE -->
+    <section class="screen" id="s2">
+      <div class="glass message-card">
+
+        <span class="small">BIRTHDAY MESSAGE</span>
+
+        <h2>Happy Birthday 🎂</h2>
+
+        <div id="birthdayText" class="message hidden">
+
+          <p>Happy Birthday, Anisha! 🎂💙</p>
+
+          <p>
+            May your birthday be as beautiful and special as you are.
+            I hope every moment of your life is filled with happiness,
+            peace, love, and beautiful memories. 🥹💜
+          </p>
+
+          <p>
+            Never forget how special you are, and always keep that
+            beautiful smile alive.
+          </p>
+
+          <p>
+            Wishing you nothing but the best today and always. 🫶🏻
+          </
